@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jesica Medina 👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Jessica Medina 👩‍💻</h1>
 <h3 align="center">Passionate Software Engineer | ECE Major at UT Austin | GSoC Contributor | Co-founder of Solreal | Previous DevOps Intern at Jabil | Innovator in Educational Tech | Aspiring Tech Leader</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jessmed749" alt="jessmed749" /></a> </p>
