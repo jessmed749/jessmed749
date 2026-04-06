@@ -58,8 +58,4 @@ ECE student at UT Austin building at the intersection of systems, ML, and cloud 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessmed749&show_icons=true&theme=default&hide_border=true" height="150" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessmed749&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+
